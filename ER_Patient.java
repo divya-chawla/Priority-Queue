@@ -1,8 +1,4 @@
-/*
- * CSC115 Assignment 6 : Emergency Room
- * ER_Patient.java
- * Created for use by CSC115 Summer 2016.
- */
+
 
 import java.time.LocalTime;
 import java.util.Random;
